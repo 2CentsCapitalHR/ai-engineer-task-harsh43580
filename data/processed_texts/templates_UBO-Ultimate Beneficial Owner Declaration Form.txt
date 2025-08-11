@@ -1,0 +1,73 @@
+Declaration of Ultimate Beneficial Owner(s) (“UBOs”) 
+Introduction:
+UAE Federal Law 20 of 2018 on Anti Money Laundering and Countering the Financing of Terrorism, Cabinet Decision No. 10 of 2019 issued under the AML Law and Cabinet Decision No. (109) of 2023 Regulating the Beneficial Owner Procedures, as amended from time to time (the “AML Law”) require business licensing agencies in the UAE to identify the ultimate individual beneficial Owner(s) of businesses licensed by them.
+The Dubai Development Authority (the “Authority”) requires all the business partners it licenses (whether as FZLLCs or Branch Offices – “Business Partners”) to disclose their ultimate beneficial owners.
+Who is the UBO?
+The Beneficial Owner of the Legal Person shall be whoever person that ultimately owns or controls, whether directly through a chain of ownership or control or by other means of control such as the right to appoint or dismiss the majority of its Directors, 25% or more of the shares or 25% or more of the voting rights in the Legal Person. 
+The Beneficial Owner may be traced through any number of Legal Persons or arrangements of whatsoever kind. 
+If two or more natural persons jointly own or control a ratio of capital in the Legal Person, all of them shall be deemed as jointly owners or controllers of such ratio. 
+If, after all reasonable means have been taken, no natural person is identified as an ultimate Beneficial Owner, or there is reasonable doubt that any natural person identified as an ultimate Beneficial Owner is the true Beneficial Owner in the Legal Person; then the natural person who controls the Legal Person by other means of control shall be deemed as the Beneficial Owner. 
+It is important to note that the UBO is not necessarily the shareholder. (For example, only an overseas company called ABC Limited owns 100% of the shares in a free zone company called XYZ FZLLC. Bill and Ted each own 50% of the shares in ABC Limited. The UBOs of XYZ FZLLC are Bill and Ted (not ABC Limited).
+It is a condition of issue and renewal of a license to a Business Partner in the Dubai Development Authority Free Zone that a Business Partner provides UBO information to the Authority and updates that UBO information as and when the UBO changes.
+The Authority reserves the right to request any Business Partner to supply documentation and other information to evidence information made in the UBO declaration.
+Certain Business Partners are exempt from making a UBO declaration. Those exceptions are set out in Section 2 of this form. Unless a Business Partner is entitled to a Section 2 exception, the UBO declaration must be completed.
+Ultimate Beneficial Ownership (“UBO”) Declaration Form
+Section 1:
+1.1 Exception from providing Ultimate Beneficial Owner(s) (UBO) Information
+("If you select 'Yes' in this section, indicating that the exemption from providing UBO information applies to you, the submission of the UBO declaration will not be required. Please be aware that all other sections of this form remain mandatory and must be completed.”)
+I/We declare that the corporate member of the FZLLC is: (Please tick the appropriate box)
+1.2 Details of Ultimate Beneficial Owner(s) (UBO) – Corporate Members
+Is the corporate member owned by another corporate entity?   Yes        No  
+If yes, list the entities that own the corporate member(s), ownership type, percentage of ownership.
+If ownership type is corporate, provide the details of all the corporate entities.
+1Ownership structure diagram is required for each entity listed and UBO Details (along with the ownership structure diagram, the minimum requirements of the details shared about each corporate entity’s UBO must include their “Full Name, Nationality, and Passport copy”).
+Section 2:
+2.1 The declaration of the Individual shareholder. 
+  I/We hereby declare that the individual shareholder(s) is the Ultimate Beneficial Owner of the Company and there is no more   UBO(s) of the Company other than the individual shareholder(s) of the Company.  
+2.2 Details of Ultimate Beneficial Owner(s) (UBO) – Individuals through ownership/control 
+  For a Company, a UBO is any individual who (Please tick the type of UBO): 
+           Ultimately owns or controls whether directly or indirectly 25% or more of the shares or voting rights in the business; 
+           Holds the right, directly or indirectly, to appoint or remove a majority of the board of directors;
+           Has the right to exercise, or actually exercises, significant influence or control over the corporate body;
+           Exercises ultimate control over the management; or
+           Controls the corporate body.
+2.2.1 Date on which the person became a Beneficial Owner (01-Jan-21)
+2.3 Additional Details of Ultimate Beneficial Owner(s) (UBO) 
+2.4 Nominee Arrangement Confirmation:
+A nominee agreement is a legal or informal relationship wherein an individual or company agrees to act as a nominee holding shares for and on behalf of another company or individual. The nominee holds the legal title to the shares but is not entitled to the benefits that arise out of the shares.”
+2.5 Legal Representative’s Information: (if any)
+	Provide the Registrar with the name of a natural person residing in the State and authorized to disclose to the Registrar all data and information required under the AML law.  
+Section – 3
+Politically Exposed Person (PEP) Assessment
+Politically exposed persons are individuals or international entities who are or have been entrusted with prominent public functions and their immediate family members and close associates in the United Arab Emirates or a third country.
+3.1 PEP Association
+A. Do you or any of immediate family member or business / close associate (currently or formerly) qualified as one of the PEPs
+If closely related to PEP, then please tick the type:
+ a spouse
+ a partner considered by national law as equivalent to a spouse
+ a child 
+ a spouse or partner of a child
+ a brother or sister (including a half-brother or half-sister)
+ a spouse or partner of a brother or sister
+ a parent
+ a parent-in-law
+ a grandparent
+ a grandchild 
+	others: (Please specify details in below text box)
+If closely associated to PEP, then please tick the type:
+ a joint beneficial owner of a legal person or legal arrangement, or any other close business relationship, with UBO
+ the sole beneficial owner of a legal person or legal arrangement known to have been set up for the benefit of UBO
+  a beneficiary of a legal arrangement of which UBO is a beneficial owner or beneficiary; or a person in a position to conduct substantial financial transactions on behalf of UBO
+	others: (Please specify details in below text box)
+Jurisdiction risk of the country in which the individual PEP his/her political position:
+3.2 Source of Funds and Wealth
+If you are a politically exposed person and/or the Beneficial Owner of a Legal Entity, please specify the source of property and assets which are, or will be the subject of the relevant legal entity:
+UBO DECLARATIONS AND UNDERTAKINGS
+I/We hereby declare that the information provided in this declaration is true and accurate and if such information changes, I/We will promptly notify the Authority within 15 days of such amendment or change.
+I/We hereby undertake to notarize and/or attest any document or passport copy submitted along with this declaration, if required by the Authority. 
+I/We acknowledge that if any information provided by me/us is subsequently found to be untrue, inaccurate, or misleading the Authority may suspend or terminate our licence.
+I/We hereby authorize the Authority to make any enquiries from any person or entity it may deem necessary in connection with this declaration. 
+I/We understand that the Authority may decline my declaration without being required to provide any reason.
+Notes:
+Please submit a separate Declaration Form for each UBO should there be more than one individual who falls under the definition of a UBO.
+Please attach a copy of valid Emirates ID card or passport

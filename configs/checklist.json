@@ -1,0 +1,54 @@
+{
+  "PrivateCompany_LimitedByShares_NonFinancial": [
+    "Private Company Limited by Shares – Non-Financial Services (Checklist)",
+    "Model Articles – Private Company Limited by Shares",
+    "Resolution – Multiple Shareholders Incorporation (LTD)",
+    "Consent to Act (Director/Secretary)",
+    "Ultimate Beneficial Owner (UBO) Declaration Form",
+    "Beneficial Ownership Register Template",
+    "Shareholding Structure Chart Template"
+  ],
+  "PrivateCompany_LimitedByGuarantee_NonFinancial": [
+    "Private Company Limited by Guarantee – Non-Financial Services (Checklist)",
+    "Model Articles – Private Company Limited by Guarantee",
+    "Resolution – Multiple Shareholders Incorporation (LTD)",
+    "Consent to Act (Director/Secretary)",
+    "Ultimate Beneficial Owner (UBO) Declaration Form",
+    "Beneficial Ownership Register Template",
+    "Shareholding Structure Chart Template"
+  ],
+  "PrivateCompany_LimitedByShares_Financial": [
+    "Private Company Limited by Shares – Financial Services (Checklist)",
+    "Model Articles – Private Company Limited by Shares",
+    "Resolution – Multiple Shareholders Incorporation (LTD)",
+    "Consent to Act (Director/Secretary)",
+    "Ultimate Beneficial Owner (UBO) Declaration Form",
+    "Beneficial Ownership Register Template",
+    "Shareholding Structure Chart Template",
+    "Beneficial Ownership & Control Guidance",
+    "Event Driven Filing Guidance"
+  ],
+  "SPV_Continuance": [
+    "Private Company Limited by Shares – Continuance SPV (Checklist)",
+    "SPV & Foundation Guidance Notes",
+    "Resolution – Amendment to Articles of Association",
+    "Consent to Act (Director/Secretary)",
+    "Ultimate Beneficial Owner (UBO) Declaration Form",
+    "Beneficial Ownership Register Template",
+    "Shareholding Structure Chart Template"
+  ],
+  "Branch_Financial_NonFinancial": [
+    "Branch – Financial & Non-Financial Services (Checklist)",
+    "Event Driven Filing Guidance",
+    "Guidance on Filing Requirements",
+    "Consent to Act (Director/Secretary)"
+  ],
+  "LLP_Financial_NonFinancial": [
+    "Limited Liability Partnership – Financial & Non-Financial (Checklist)",
+    "Resolution – Multiple Shareholders Incorporation (LTD)",
+    "Consent to Act (Director/Secretary)",
+    "Ultimate Beneficial Owner (UBO) Declaration Form",
+    "Beneficial Ownership Register Template",
+    "Shareholding Structure Chart Template"
+  ]
+}

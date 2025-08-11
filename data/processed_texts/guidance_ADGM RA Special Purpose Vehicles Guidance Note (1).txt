@@ -1,0 +1,115 @@
+Guidance Note for Special Purpose Vehicles
+Table of Contents
+Table of Contents ...................................................................................................................................... 2
+Background................................................................................................................................................ 3
+Purpose of this Guidance Note.................................................................................................................. 3
+ADGM’s Special Purpose Vehicle Regime ................................................................................................ 3
+The Nexus Requirement for ADGM SPVs ................................................................................................ 4
+Registrar’s ultimate discretion ................................................................................................................... 4
+For More Information ................................................................................................................................. 5
+Disclaimer .................................................................................................................................................. 6
+Background
+Abu Dhabi Global Market (ADGM) is a financial free zone, established pursuant to Federal Legislation
+including Abu Dhabi Law No. 4 of 2013 (Founding Law) in the Emirate of Abu Dhabi. With its own civil
+and commercial laws based on English common law, ADGM is an international financial centre that offers
+the local, regional and international business community a world-class legal system and regulatory
+regime.
+The Registration Authority is the independent commercial regulatory authority in the ADGM, which has
+the powers granted to it under the Founding Law. The Registration Authority’s responsibilities include the
+incorporation of various corporate vehicles as well as the registration and commercial licensing of all
+businesses operating in or from Al Maryah Island, Abu Dhabi. Its responsibilities also include all aspects
+of the administration of ADGM’s commercial legislation, which can be found at this link:
+https://en.adgm.thomsonreuters.com/rulebook/commercial-legislation
+Purpose of this Guidance Note
+This guidance has been provided to assist potential registrants in relation to the Registrar’s requirements
+in relation to the establishment of a Special Purpose Vehicle (SPV) in ADGM.
+This guidance is issued under section 28 of the ADGM Commercial Licensing Regulations 2015. It applies
+to all applications for incorporation and a commercial licence for an ADGM SPV, including applications
+to grant an ADGM company a commercial license to conduct any of the following controlled activities:
+1. 7012: Special purpose company for professional investors;
+2. 7013: Special purpose company for professional investment institutions;
+3. 7016: Activities of special purpose company; or
+4. 7017: Activities of special purpose vehicle.
+In particular, this guidance explains what the Registrar will look for in an application for a commercial
+licence for an ADGM SPV when considering Rule 2 of the Commercial Licensing Regulations 2015
+(Conditions of Licence and Branch Registration) Rules 2019, in particular, the requirement to provide
+information showing (among other things):
+“(c) the controlled activity or controlled activities which the applicant proposes to carry on in or
+from the Abu Dhabi Global Market; and
+… (g) such other information as the Registrar may require for the purpose of deciding whether to
+grant a licence.” (together, Licensing Conditions Rule 2)
+This guidance does not purport to cover all the requirements for the establishment of an ADGM SPV and
+should be read in conjunction with all applicable Federal, Emirate and ADGM regulatory requirements,
+including the application requirements prescribed under ADGM’s commercial licensing regulations and
+rules. Where any inconsistency exists, the relevant legislative requirements will prevail.
+ADGM’s Special Purpose Vehicle Regime
+ADGM’s SPV Regime is designed to cater to a broad range of business types, uses and industry sectors.
+These include corporates, financial institutions, sovereign wealth funds, family offices and individual
+investors. ADGM SPVs are corporate vehicles, used for a variety of purposes, including to establish
+subsidiaries, project or joint venture vehicles. The key feature of an SPV is its separate legal personality,
+enabling the isolation of financial and legal risk from the assets and liabilities of the SPV’s shareholders
+or any of its sister companies.
+In ADGM, an SPV is incorporated either as:
+ a Private Company Limited by Shares and licensed to conduct SPV activities; or
+ a Restricted Scope Company (RSC), which allows for more limited disclosure on the public
+register.1
+The Nexus Requirement for ADGM SPVs
+To satisfy the Registrar of the requirement at Licensing Conditions Rule 22 in relation to an ADGM SPV,
+applicants must be able to demonstrate that the SPV will have an appropriate connection or ‘nexus’ to
+the ADGM, the UAE and/or to the GCC Region (the Nexus Requirement).
+A connection or ‘nexus’ may be demonstrated in a number of ways, including documentary evidence that:
+1. The SPV is owned or controlled by a UAE or GCC based private company, family/family office
+or individual;
+2. The SPV holds assets that are located in the UAE or the GCC Region;
+3. The SPV facilitates transactions connected, or provides real or economic benefit, to the UAE;
+or
+4. The SPV’s purpose includes the issuance of Securities that will be admitted to the Official List
+maintained by the Financial Service Regulatory Authority (FSRA), and / or admitted to trading
+on a Recognised Investment Exchange, MTF3, OTF4 or other licenced platform (including a
+PFP5) that is established in ADGM.
+For example, UAE sovereign and state-owned entities will have the requisite connection to the UAE and
+would therefore satisfy the requirements of the Nexus Requirement.
+Conversely, a SPV wholly owned by a foreign non-resident person that solely holds assets located
+outside the UAE or the GCC Region would not meet the requirements of the Nexus Requirement.
+Note: an SPV that is intended for a purpose that would otherwise have no connection to the UAE or GCC
+region, would not meet the Nexus Requirement by appointing an ADGM (or UAE based) Company
+Service Provider.
+Registrar’s ultimate discretion
+The Registrar recognises that not all circumstances or transactions are the same and will, at all times,
+maintain the discretion to consider and decide each SPV application on a case-by-case basis. However,
+the Registration Authority is unlikely to accept an application to incorporate an SPV if it does not satisfy
+the Nexus Requirement.
+Note: Pursuant to section 10 of the Commercial Licensing Regulations 2015, the decision to grant or
+refuse an application for the grant of a commercial licence in ADGM is ultimately at the discretion of the
+Registrar.
+1 Subject to satisfying the eligibility criteria to apply for an RSC, as per the relevant sections of the ADGM
+Companies Regulations 2015.
+2 In addition to all the applicable licensing requirements prescribed in the ADGM commercial licensing regulations
+and rules.
+3 Multilateral Trading Facility.
+4 Organised Trading Facility.
+5 Private Financing Platform.
+For More Information
+For more information on ADGM’s SPV regime go to: www.adgm.com/setting-up/spv/overview
+For any questions on incorporating an SPV in ADGM, please email your ADGM Business Development
+contact person, or the Registration Authority’s Registration & Incorporation Team at:
+ADGM.registration@adgm.com.
+Contact Us
+The Registration Authority’s offices are open from Sunday to Thursday, 9:00am to 3:00pm and may be
+contacted during normal working hours as follows:
+By telephone: +971 2 333 8888;
+By email: ra@adgm.com; or
+In person: 3rd floor, ADGM Building, North Side, Registration & Incorporation unit of ADGM Registration
+Authority, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, United Arab Emirates.
+Disclaimer
+This guidance sets out ADGM Registration Authority’s position on the requirement for ADGM companies
+licensed to conduct SPV and related activities to have a nexus to the UAE or GCC. Further advice from
+a specialist professional in relation to the implementation of this guidance may be required. The
+Registration Authority makes no representations as to accuracy, completeness, correctness or suitability
+of any information and will not be liable for any error or omission. Information in this guidance is not to be
+deemed, considered or relied upon as legal advice and should not be treated as a substitute for a specific
+advice concerning any individual situation. Any action taken upon the information provided in this
+guidance is strictly at your own risk and ADGM Registration Authority will not be liable for any losses and
+damages in connection with the use of or reliance on information provided in this guidance.
+For more information, please contact the Registration Authority by email: ra@adgm.com
+Published: March 2020
